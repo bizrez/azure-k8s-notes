@@ -46,3 +46,8 @@ az sql db create -g akshandsonlab -s k8sgo -n mhcdb --service-objective S0
 
 2. Add containerRegistry to the variables
 
+# Setup Pipelines
+
+![image](https://user-images.githubusercontent.com/993459/137401223-d2f48f18-2e0e-4c9f-8bc2-36063e8f5112.png)
+
+
