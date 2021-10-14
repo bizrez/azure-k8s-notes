@@ -33,6 +33,8 @@ az sql db create -g akshandsonlab -s k8sgo -n mhcdb --service-objective S0
 
 1. Create Connection 
  
+ ![image](https://user-images.githubusercontent.com/993459/137400279-e4759344-4dc9-4657-b83f-e76bcacfa89d.png)  
+
 ![image](https://user-images.githubusercontent.com/993459/137397895-020bb245-2da5-4187-91b3-c83d4217020d.png) 
 
 ![image](https://user-images.githubusercontent.com/993459/137397936-48d695a9-33ca-45cc-b17b-2257816eddf5.png)
