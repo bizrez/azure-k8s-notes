@@ -1,8 +1,9 @@
 # azure-k8s-notes
 Deploying a multi-container application to Azure Kubernetes Services
 
-dilemma - Running a company subscription that does not allow me to use Active Directory for applications and configuration of Azure resources.  
-solution - Go native connection. Hooked up the pipeline with a connection.   
+> dilemma - Running a company subscription that does not allow me to use Active Directory for applications and configuration of Azure resources.
+  
+> solution - Go native connection. Hooked up the pipeline with a connection.   
 
 [Deploying a multi-container application to Azure Kubernetes Services](https://www.azuredevopslabs.com/labs/vstsextend/kubernetes/)
 
