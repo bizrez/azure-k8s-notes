@@ -37,3 +37,5 @@ az sql db create -g akshandsonlab -s k8sgo -n mhcdb --service-objective S0
 
 ![image](https://user-images.githubusercontent.com/993459/137397936-48d695a9-33ca-45cc-b17b-2257816eddf5.png)
 
+2. Add containerRegistry to the variables
+
