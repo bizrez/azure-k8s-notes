@@ -48,6 +48,9 @@ az sql db create -g akshandsonlab -s k8sgo -n mhcdb --service-objective S0
 
 # Setup Pipelines
 
-![image](https://user-images.githubusercontent.com/993459/137401223-d2f48f18-2e0e-4c9f-8bc2-36063e8f5112.png)
+![image](https://user-images.githubusercontent.com/993459/137401223-d2f48f18-2e0e-4c9f-8bc2-36063e8f5112.png)  
+
+![image](https://user-images.githubusercontent.com/993459/137402646-e464518d-9831-4e69-bb41-37ca8c1bd992.png)
+
 
 
